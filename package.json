@@ -1,0 +1,8 @@
+{
+  "name": "governor-dao-core",
+  "version": "1.0.0",
+  "description": "Standardized on-chain governance system",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
